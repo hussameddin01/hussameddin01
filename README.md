@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hussam Eddin Iraqi
 - 👀 I’m interested in Data Science/Data Analytics/Business Analytics/Mahcine Learning
-- 🌱 I’m currently learning Digital Marketing
-- 💞️ I’m looking for Job oppurtunity or Internship oppurtunity
+- 💞️ I’m looking for Job oppurtunity in UAE
 - 📫 You can reach me on LinkedIn (https://www.linkedin.com/in/hussam-eddin-iraqi-b489761b9/)
 
 <!---
